@@ -32,6 +32,7 @@ With the increasing prevalence of digital documents replacing traditional paper 
 | **LD**            	| 33.4      	| 83.6      	| **72.3**        	| **85.6**      	| 65.6     	| 63.1   	|                                                                                            	|              	|
 | **Ours (FoveaLAD)** 	| **44.9**      	| **88.0**       	| 69.6        	| 85.1      	| **71.8**      	| **67.5**    	|                                                                                            	|              	|
 
+![image](https://github.com/truong11062002/FoveaLAD/assets/74360292/d2b7c2fa-a04a-408d-a206-737e65fbc74d)
 
 ## Installation
 - Please setup [UIT-DODV-Ext dataset](https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-DODV-Ext.md) for MMDetection.
