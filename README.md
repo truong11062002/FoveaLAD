@@ -25,6 +25,13 @@ With the increasing prevalence of digital documents replacing traditional paper 
 
 ## Experiment on Object Detection Knowledge Distillation. The top results are highlighted in red font
 
+| **Method**          	| **Table** 	| **Figure** 	| **Caption** 	| **AP@50** 	| **AP@75** 	| **mAP** 	| **Config**                                                                                 	| **Download** 	|
+|---------------------	|-----------	|------------	|-------------	|-----------	|-----------	|---------	|--------------------------------------------------------------------------------------------	|--------------	|
+| **FGD**       	| 32.6      	| 77.3       	| 67.0        	| 81.2      	| 62.6      	| 59.0    	| [config]() 	| [log]()      	|
+| **LAD**            	| 42.6      	| 84.2       	| 51.6        	| 81.1      	| 65.3      	| 59.5    	|                                                                                            	|              	|
+| **LD**            	| 33.4      	| 83.6      	| **72.3**        	| **85.6**      	| 65.6     	| 63.1   	|                                                                                            	|              	|
+| **Ours (FoveaLAD)** 	| **44.9**      	| **88.0**       	| 69.6        	| 85.1      	| **71.8**      	| **67.5**    	|                                                                                            	|              	|
+
 
 ## Installation
 - Please setup [UIT-DODV-Ext dataset](https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-DODV-Ext.md) for MMDetection.
