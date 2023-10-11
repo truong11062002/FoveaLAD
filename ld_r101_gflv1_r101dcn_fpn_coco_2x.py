@@ -67,7 +67,7 @@ data = dict(
         ]),
     val=dict(
         type='CocoDataset',
-        classes = ('caption','table','figure'),
+        classes=('caption', 'table', 'figure'),
         ann_file='data/Truong_Hai/dataset/UIT-DODV-Ext/val.json',
         img_prefix='data/Truong_Hai/dataset/UIT-DODV-Ext/val/',
         pipeline=[
@@ -91,7 +91,7 @@ data = dict(
         ]),
     test=dict(
         type='CocoDataset',
-        classes = ('caption','table','figure'),
+        classes=('caption', 'table', 'figure'),
         ann_file='data/Truong_Hai/dataset/UIT-DODV-Ext/test.json',
         img_prefix='data/Truong_Hai/dataset/UIT-DODV-Ext/test/',
         pipeline=[
